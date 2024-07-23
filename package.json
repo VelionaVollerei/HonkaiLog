@@ -48,7 +48,7 @@
     "zod": "^3.21.4"
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/jest-dom": "^6.4.8",
     "@testing-library/react": "^14.0.0",
     "@types/canvasjs": "^1.9.8",
     "@types/jest": "^29.4.0",
